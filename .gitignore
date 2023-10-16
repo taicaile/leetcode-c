@@ -1,3 +1,12 @@
+# target
+bin
+obj
+
+# CodeBlock
+*.layout
+*.depend
+# VSCode
 .vscode
-main.c
+
+# Clang
 main.dSYM
