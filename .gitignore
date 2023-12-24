@@ -10,3 +10,4 @@ obj
 
 # Clang
 main.dSYM
+.DS_Store
